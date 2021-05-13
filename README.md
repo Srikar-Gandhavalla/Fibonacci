@@ -8,3 +8,5 @@ Follow the below steps to execute the project.
 6. Install npm module(jest) by running the commnad > npm i jest  (this will install jest package into your system)
 7. To executethe tests run the command in terminal as "npm run test"
 8. If you forsee any issue like "Jest' is not recognized as an internal or external command", then install the jest package globally by running the command as npm install -g jest
+
+Note: I have not included node module in the repository.
