@@ -6,7 +6,7 @@ Follow the below steps to execute the project.
 4.	you will be prompted to provide the URL (Give the URL as https://github.com/Srikar-Gandhavalla/Fibonacci.git)
 5.	To execute the code - Go to terminal and run the command > node fibonacci.js -> Then your code will be executed and you will see the result as [0,1,1,2,3,5,8,13]
 6.	Install npm module(jest) by running the command > npm i jest (this will install the jest package into your system)
-7.	To execute the tests run the command in terminal as npm run test
+7.	To execute the tests run the command in terminal as > npm run test
 8.	If you foresee any issue like "Jest' is not recognized as an internal or external command", then install the jest package globally by running the command as > npm install -g jest
 
 
